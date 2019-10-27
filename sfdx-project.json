@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "ApexLoggingULP",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "47.0",
+    "packageAliases": {
+        "ApexLoggingULP": "0Ho0o000000TNAHCA4",
+        "ApexLoggingULP@0.1.0-1": "04t0o000002uLMYAA2",
+        "ApexLoggingULP@0.1.0-2": "04t0o000002uLMdAAM"
+    }
+}
